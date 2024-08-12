@@ -1,7 +1,7 @@
 # AI3D Co-Create Reality
 
-[![IMAGE ALT TEXT HERE](https://i.gyazo.com/9343c74d592e52afb62385b4792d37f8.gif)](https://www.youtube.com/watch?v=wz4zXq8n8p8)
-
+[![App Demo](https://i.gyazo.com/10d994d6c6a156562ae4a37b74b6de2b.gif)](https://www.youtube.com/watch?v=wz4zXq8n8p8)
+ 
 #### App tagline or elevator pitch (1 sentence)
 
 Expressively Co-Create AI-generated 3D Models in Real Time AR with Gemini in the Real World
