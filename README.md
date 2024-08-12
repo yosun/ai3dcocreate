@@ -1,6 +1,8 @@
 # AI3D Co-Create Reality
 
 [![App Demo](https://i.gyazo.com/10d994d6c6a156562ae4a37b74b6de2b.gif)](https://www.youtube.com/watch?v=wz4zXq8n8p8)
+
+Download and try out the beta @ https://ai3d.dev/co-create/ 
  
 #### App tagline or elevator pitch (1 sentence)
 
