@@ -1,6 +1,6 @@
 # AI3D Co-Create Reality
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wz4zXq8n8p8/0.jpg)](https://www.youtube.com/watch?v=wz4zXq8n8p8)
+[![IMAGE ALT TEXT HERE](https://i.gyazo.com/9343c74d592e52afb62385b4792d37f8.gif)](https://www.youtube.com/watch?v=wz4zXq8n8p8)
 
 #### App tagline or elevator pitch (1 sentence)
 
